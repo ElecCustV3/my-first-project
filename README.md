@@ -1,2 +1,3 @@
 # my-first-project
-This is my first project on GitHub.
+# About my first project on GitHub.
+This project is about uploading a file on GitHub.
